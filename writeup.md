@@ -54,7 +54,7 @@ In the first step of my pipeline, I applied the function ``cv2.undistort(img, mt
 The code for this step is contained in the section *Binary image* of the IPython notebook located in "advanced_lane_finding
 .ipynb".
 
-I used a combination of color and gradient thresholds to generate a binary image. Here's an example of my output for this step. 
+I used a combination of white and yellow color thresholds to generate a binary image. Here's an example of my output for this step. 
 
 ![alt text][image3]
 
